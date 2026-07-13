@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou Anderson Brandão 👋
 
-<!--
-**andersoncbrandao2706-dev/andersoncbrandao2706-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional em transição para Business Intelligence e Data Analytics, com experiência em operações, processos, indicadores e governança de dados.
 
-Here are some ideas to get you started:
+Atualmente desenvolvo projetos de Business Intelligence e Analytics com foco na construção de um portfólio prático e na evolução contínua em análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- 📊 Power BI
+- 📈 DAX
+- 🔄 Power Query
+- 🗄️ SQL
+- 🐍 Python
+- 📑 Excel
+- ⚙️ VBA
+
+## Projetos
+
+🚧 Em construção...
+
+- Dashboard de Performance Comercial *(em breve)*
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/andersonbrandao2706/
