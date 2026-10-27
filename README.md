@@ -1,25 +1,42 @@
-# Olá! Eu sou Anderson Brandão 👋
+# Olá, eu sou Anderson Brandão
 
-Profissional em transição para Business Intelligence e Data Analytics, com experiência em operações, processos, indicadores e governança de dados.
+**Business Intelligence | Data Analytics**
 
-Atualmente desenvolvo projetos de Business Intelligence e Analytics com foco na construção de um portfólio prático e na evolução contínua em análise de dados.
+Transformo dados, processos e regras de negócio em informações que apoiam
+decisões e geram eficiência.
 
-## Tecnologias
+Tenho experiência na construção de indicadores, dashboards e automações,
+conectando necessidades das áreas de negócio a soluções analíticas. Minha
+trajetória inclui projetos de dados, melhoria de processos e atuação junto
+a equipes de negócio e tecnologia.
 
-- 📊 Power BI
-- 📈 DAX
-- 🔄 Power Query
-- 🗄️ SQL
-- 🐍 Python
-- 📑 Excel
-- ⚙️ VBA
+## Projetos em destaque
 
-## Projetos
+### 📊 Dashboard de Performance Comercial
 
-🚧 Em construção...
+Análise de faturamento, metas, vendedores e mix de produtos em um dashboard
+interativo desenvolvido em Power BI.
 
-- Dashboard de Performance Comercial *(em breve)*
+**Recursos:** Power BI · DAX · Power Query · Modelagem dimensional
+
+[Ver projeto](https://github.com/andersoncbrandao/dashboard-performance-comercial)
+
+### 🐍 ETL de Vendas com Python
+
+Projeto de preparação de dados de vendas em arquivos CSV, utilizando Python
+e Pandas.
+
+**Recursos:** Python · Pandas · Tratamento de dados
+
+[Ver projeto](https://github.com/andersoncbrandao/etl-vendas-python)
+
+## Ferramentas e competências
+
+- **Business Intelligence:** Power BI, DAX, Power Query e modelagem de dados.
+- **Análise e preparação de dados:** SQL, Python, Pandas e Excel.
+- **Negócio:** indicadores, processos, levantamento de requisitos e
+  comunicação de resultados.
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/andersonbrandao2706/
+[LinkedIn — Anderson Brandão](https://www.linkedin.com/in/andersonbrandao2706/)
